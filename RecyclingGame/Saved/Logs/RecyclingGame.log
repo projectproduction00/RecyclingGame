@@ -1187,3 +1187,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.15-17.15.01:143][181]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.09.15-17.15.01:152][181]LogSlate: Took 0.002069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.09.15-17.15.53:229][713]LogDerivedDataCache: C:/Users/td94/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.129 and deleted 0 files with total size 0 MiB. Scanned 1455 files in 1450 folders with total size 37 MiB.
+[2023.09.15-17.17.24:683][759]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2023.09.15-17.37.41:986][759]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [1217320ms] waiting for h/w. InstanceID=1
+[2023.09.15-17.37.42:052][759]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11972
+[2023.09.15-17.37.42:914][761]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8f3cf1d4-0c32-4628-91f0-8f4de9821173}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=647.62
+[2023.09.15-17.37.42:914][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.15-17.37.42:915][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
