@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/Code/TestLevel/TestArea.umap",
+				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/Code/Blueprints/MyGameMode.uasset",
+				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/Code/Objects/Maschiene_Skeleton.uasset",
+				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/Code/Objects/Maschiene_PhysicsAsset.uasset",
+				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/Code/Objects/lambert1.uasset",
+				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/Code/Objects/Maschiene.uasset",
+				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/Code/Blueprints/Camera.uasset",
+				"C:/OneDrive/Desktop/GameJam2023/RecyclingGame/RecyclingGame/Content/Code/Blueprints/Player.uasset"
 			]
 		}
 	]
